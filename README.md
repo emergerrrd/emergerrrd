@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hey, I'm Emer 👋
+
+Currently working as a Forward Deployed Engineer at [Casper Studios](https://casperstudios.com/). Previously, I built and managed [TradeWindow](https://tradewindow.io/)’s data platform as a Lead Data Engineer.
+
+## What I'm up to
+
+- Currently reading: <!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 <!--
 **emergerrrd/emergerrrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

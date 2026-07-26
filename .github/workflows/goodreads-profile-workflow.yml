@@ -1,0 +1,22 @@
+name: Latest book list from a goodreads
+on:
+  schedule: # Run workflow automatically
+    # Run daily at 00:00 UTC
+    - cron: "0 0 * * *"
+    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  workflow_dispatch:
+jobs:
+  update-readme-with-goodreads-books:
+    name: Update this repo's README with what you're currently reading
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: emergerrrd/goodreads-profile-workflow@main
+        with:
+          # Replace this with your goodreads user id
+          goodreads_user_id: "12084710"
+          shelf: "currently-reading"
+          max_books_count: "2"
+          template: "[$title]($url) by $author"
+          sort_by_fields: ">user_date_added"
+          separator: ", "
