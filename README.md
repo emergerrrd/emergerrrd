@@ -5,7 +5,7 @@ Currently working as a Forward Deployed Engineer at [Casper Studios](https://cas
 ## What I'm up to
 
 - Currently reading: <!-- GOODREADS-LIST:START -->
-[The Psychology of Software Teams](https://www.goodreads.com/review/show/8768677256?utm_medium=api&utm_source=rss) by Cat Hicks, [A Philosophy of Software Design](https://www.goodreads.com/review/show/8701335859?utm_medium=api&utm_source=rss) by John Ousterhout
+[Dungeon Crawler Carl (Dungeon Crawler Carl, #1)](https://www.goodreads.com/review/show/8799956393?utm_medium=api&utm_source=rss) by Matt Dinniman, [The Psychology of Software Teams](https://www.goodreads.com/review/show/8768677256?utm_medium=api&utm_source=rss) by Cat Hicks
 <!-- GOODREADS-LIST:END -->
 
 <!--
