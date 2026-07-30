@@ -1,6 +1,6 @@
 ## Hey, I'm Emer 👋
 
-Currently working as a Forward Deployed Engineer at [Casper Studios](https://casperstudios.com/). Previously, I built and managed [TradeWindow](https://tradewindow.io/)’s data platform as a Lead Data Engineer, following earlier data roles at [AWS](https://aws.amazon.com/) and [Lazada](https://www.lazada.com/en/).
+Currently working as a AI Product Engineer at [Casper Studios](https://casperstudios.com/). Previously, I built and managed [TradeWindow](https://tradewindow.io/)’s data platform as a Lead Data Engineer, following earlier data roles at [AWS](https://aws.amazon.com/) and [Lazada](https://www.lazada.com/en/).
 
 ## What I'm up to
 
