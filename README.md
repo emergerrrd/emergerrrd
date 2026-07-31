@@ -5,7 +5,7 @@ Currently working as a AI Product Engineer at [Casper Studios](https://casperstu
 ## What I'm up to
 
 - Currently reading: <!-- GOODREADS-LIST:START -->
-[Dungeon Crawler Carl (Dungeon Crawler Carl, #1)](https://www.goodreads.com/review/show/8799956393?utm_medium=api&utm_source=rss) by Matt Dinniman, [The Psychology of Software Teams](https://www.goodreads.com/review/show/8768677256?utm_medium=api&utm_source=rss) by Cat Hicks
+[The Psychology of Software Teams](https://www.goodreads.com/review/show/8768677256?utm_medium=api&utm_source=rss) by Cat Hicks, [Dungeon Crawler Carl (Dungeon Crawler Carl, #1)](https://www.goodreads.com/review/show/8799956393?utm_medium=api&utm_source=rss) by Matt Dinniman
 <!-- GOODREADS-LIST:END -->
 
 <!--
