@@ -5,7 +5,7 @@ Currently working as a AI Product Engineer at [Casper Studios](https://casperstu
 ## What I'm up to
 
 - Currently reading: <!-- GOODREADS-LIST:START -->
-[The Status Game: On Human Life and How to Play It](https://www.goodreads.com/review/show/6400931643?utm_medium=api&utm_source=rss) by Will Storr, [The Psychology of Software Teams](https://www.goodreads.com/review/show/8768677256?utm_medium=api&utm_source=rss) by Cat Hicks
+[The Psychology of Software Teams](https://www.goodreads.com/review/show/8768677256?utm_medium=api&utm_source=rss) by Cat Hicks, [The Status Game: On Human Life and How to Play It](https://www.goodreads.com/review/show/6400931643?utm_medium=api&utm_source=rss) by Will Storr
 <!-- GOODREADS-LIST:END -->
 
 <!--
