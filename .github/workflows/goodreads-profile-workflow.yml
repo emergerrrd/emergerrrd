@@ -18,7 +18,17 @@ jobs:
           # Replace this with your goodreads user id
           goodreads_user_id: "12084710"
           shelf: "currently-reading"
+          comment_tag_name: "GOODREADS-CURRENTLY-READING"
           max_books_count: "2"
           template: "[$title]($url) by $author"
           sort_by_fields: ">user_date_added"
+          separator: ", "
+      - uses: emergerrrd/goodreads-profile-workflow@main
+        with:
+          goodreads_user_id: "12084710"
+          shelf: "read"
+          comment_tag_name: "GOODREADS-READ"
+          max_books_count: "1"
+          template: "[$title]($url) by $author"
+          sort_by_fields: ">user_read_at"
           separator: ", "
