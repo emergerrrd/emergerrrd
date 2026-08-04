@@ -7,7 +7,9 @@ Currently working as a AI Product Engineer at [Casper Studios](https://casperstu
 - Currently reading: <!-- GOODREADS-CURRENTLY-READING:START -->
 [Dungeon Crawler Carl (Dungeon Crawler Carl, #1)](https://www.goodreads.com/review/show/8799956393?utm_medium=api&utm_source=rss) by Matt Dinniman, [A Philosophy of Software Design](https://www.goodreads.com/review/show/8701335859?utm_medium=api&utm_source=rss) by John Ousterhout
 <!-- GOODREADS-CURRENTLY-READING:END -->
-- Just finished: <!-- GOODREADS-READ:START --><!-- GOODREADS-READ:END -->
+- Just finished: <!-- GOODREADS-READ:START -->
+[The Psychology of Software Teams](https://www.goodreads.com/review/show/8768677256?utm_medium=api&utm_source=rss) by Cat Hicks
+<!-- GOODREADS-READ:END -->
 
 <!--
 **emergerrrd/emergerrrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
