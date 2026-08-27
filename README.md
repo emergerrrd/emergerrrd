@@ -5,7 +5,8 @@ Currently working as a AI Product Engineer at [Casper Studios](https://casperstu
 ## What I'm up to
 
 - Currently reading: [Online media (Raindrop)](https://emergerrrd.raindrop.page/history-55568001), <!-- GOODREADS-CURRENTLY-READING:START -->
-[Dungeon Crawler Carl (Dungeon Crawler Carl, #1)](https://www.goodreads.com/review/show/8799956393?utm_medium=api&utm_source=rss) by Matt Dinniman, [Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://www.goodreads.com/review/show/8242492373?utm_medium=api&utm_source=rss) by Charles T. Munger<!-- GOODREADS-CURRENTLY-READING:END -->
+[Dungeon Crawler Carl (Dungeon Crawler Carl, #1)](https://www.goodreads.com/review/show/8799956393?utm_medium=api&utm_source=rss) by Matt Dinniman, [Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://www.goodreads.com/review/show/8242492373?utm_medium=api&utm_source=rss) by Charles T. Munger
+<!-- GOODREADS-CURRENTLY-READING:END -->
 - Just finished: <!-- GOODREADS-READ:START -->
 [A Philosophy of Software Design](https://www.goodreads.com/review/show/8701335859?utm_medium=api&utm_source=rss) by John Ousterhout
 <!-- GOODREADS-READ:END -->
