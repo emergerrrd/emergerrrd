@@ -5,7 +5,7 @@ Currently working as a AI Product Engineer at [Casper Studios](https://casperstu
 ## What I'm up to
 
 - Currently reading: <!-- GOODREADS-CURRENTLY-READING:START -->
-[Dungeon Crawler Carl (Dungeon Crawler Carl, #1)](https://www.goodreads.com/review/show/8799956393?utm_medium=api&utm_source=rss) by Matt Dinniman, [Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://www.goodreads.com/review/show/8242492373?utm_medium=api&utm_source=rss) by Charles T. Munger
+[Thinking In Systems: A Primer](https://www.goodreads.com/review/show/8992147629?utm_medium=api&utm_source=rss) by Donella H. Meadows, [Stories of Your Life and Others](https://www.goodreads.com/review/show/8991554293?utm_medium=api&utm_source=rss) by Ted Chiang
 <!-- GOODREADS-CURRENTLY-READING:END -->
 - Just finished: <!-- GOODREADS-READ:START -->
 [Stubborn Attachments: A Vision for a Society of Free, Prosperous, and Responsible Individuals](https://www.goodreads.com/review/show/8905611421?utm_medium=api&utm_source=rss) by Tyler Cowen
